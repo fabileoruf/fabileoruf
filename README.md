@@ -1,7 +1,7 @@
 # Hi, I'm Fabiana 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Returning+to+Tech;Full+Stack+Developer+in+progress;AI+%7C+IoT+Enthusiast&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Returning+to+Tech;Full+Stack+Developer+in+progress+.+.+.;AI+%7C+IoT+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ---
