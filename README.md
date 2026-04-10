@@ -18,6 +18,20 @@
 
 ---
 
+## 📚 Learning Journey
+
+- 🌐 Frontend: HTML, CSS, JavaScript, React  
+- 🎨 UX/UI: Figma, Design Systems, Atomic Design  
+- ⚙️ Backend: Java, Spring Boot, REST APIs, Databases  
+- 🔐 Security: Authentication & JWT  
+- 🧪 Testing: Unit Testing & TDD  
+- 🔄 Agile: Scrum, Kanban, Gitflow  
+- 🤖 AI: Generative AI  
+
+🚀 Building real-world projects at Factoria F5
+
+---
+
 ## 🛠️ Tech Stack
 
 <p>
