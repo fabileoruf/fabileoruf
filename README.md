@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Fabiana 👋
 
-<!--
-**fabileoruf/fabileoruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Returning to Tech with a focus on Full Stack, AI & IoT
+💻 Learning Full Stack Development, AI & IoT  
+📍 Based in Europe  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am currently studying at Factoria F5, focusing on:
+
+- Web Development (Frontend & Backend)
+- Artificial Intelligence
+- IoT Solutions
+
+I am building projects to improve my skills and prepare for real-world opportunities.
+
+---
+
+## 🛠️ Technologies I'm learning
+
+- HTML / CSS / JavaScript
+- React
+- Node.js
+- Git & GitHub
+- APIs
+
+---
+
+## 📂 Projects
+
+Here are some of my projects:
+
+- 🔴 Little Red Riding Hood (Git + Storytelling)
+- 🟡 AI Projects (coming soon)
+- 🟢 Personal Experiments
+
+---
+
+## 🌍 Languages
+
+- Portuguese 🇧🇷
+- Spanish 🇪🇸
+- English 🇺🇸
+
+---
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/fabileoruf
