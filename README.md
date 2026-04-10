@@ -10,7 +10,8 @@
 
 🎓 Currently studying at Factoria F5  
 💼 Background in Graphic Design & Editorial Production  
-🚀 Rebuilding my journey in Tech  
+📊 Experience in Commercial, Customer Service & Digital Product Manager 
+🚀 Rebuilding my journey in Tech with a user-focused mindset
 
 ---
 
