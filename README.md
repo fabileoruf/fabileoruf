@@ -48,7 +48,7 @@
 ## 📫 Connect with me
 
 <p>
-  <a href="www.linkedin.com/in/fabileoruf">
+  <a href="https://www.linkedin.com/in/fabileoruf">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
