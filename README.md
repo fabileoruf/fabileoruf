@@ -1,51 +1,54 @@
 # Hi, I'm Fabiana 👋
 
-🚀 Returning to Tech with a focus on Full Stack, AI & IoT
-💻 Learning Full Stack Development, AI & IoT  
-📍 Based in Europe  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Returning+to+Tech;Full+Stack+Developer;AI+%7C+IoT+Enthusiast&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I am currently studying at Factoria F5, focusing on:
-
-- Web Development (Frontend & Backend)
-- Artificial Intelligence
-- IoT Solutions
-
-I am building projects to improve my skills and prepare for real-world opportunities.
+🎓 Currently studying at Factoria F5  
+💼 Background in Graphic Design & Editorial Production  
+🚀 Rebuilding my journey in Tech  
 
 ---
 
-## 🛠️ Technologies I'm learning
+## 🛠️ Tech Stack
 
-- HTML / CSS / JavaScript
-- React
-- Node.js
-- Git & GitHub
-- APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
+</p>
 
 ---
 
 ## 📂 Projects
 
-Here are some of my projects:
+🔴 Git Story Project (Little Red Riding Hood)  
+🟡 AI Projects (coming soon)  
+🟢 Personal Experiments  
 
-- 🔴 Little Red Riding Hood (Git + Storytelling)
-- 🟡 AI Projects (coming soon)
-- 🟢 Personal Experiments
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabileoruf&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabileoruf&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🌍 Languages
 
-- Portuguese 🇧🇷
-- Spanish 🇪🇸
-- English 🇺🇸
+🇧🇷 Portuguese • 🇪🇸 Spanish • 🇺🇸 English  
 
 ---
 
-## 📫 Contact
+## 📫 Connect with me
 
-- LinkedIn: www.linkedin.com/in/fabileoruf
+<p>
+  <a href="SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
