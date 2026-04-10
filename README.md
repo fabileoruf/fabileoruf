@@ -1,7 +1,7 @@
 # Hi, I'm Fabiana 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Returning+to+Tech;Full+Stack+Developer;AI+%7C+IoT+Enthusiast&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Returning+to+Tech;Full+Stack+Developer+in+progress;AI+%7C+IoT+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ---
@@ -32,6 +32,9 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabileoruf&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabileoruf&layout=compact&theme=tokyonight&hide_border=true"/>
