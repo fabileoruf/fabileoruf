@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,jira,figma,trello" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,figma,trello" />
 </p>
 
 ---
@@ -75,6 +75,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/fabileoruf">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:es.fabileo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
