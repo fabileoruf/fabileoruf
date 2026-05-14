@@ -42,9 +42,11 @@
 
 ## 📂 Projects
 
-🔴 duckstore-frontend (F9femcoders)
-🟡 AI Projects (coming soon)  
-🟢 Personal Experiments  
+<p>
+🔴 duckstore-frontend (F9femcoders-bootcamp)<br />
+🟡 AI Projects (coming soon)<br />
+🟢 Personal Experiments
+</p>
 
 ---
 
