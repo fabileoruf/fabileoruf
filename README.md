@@ -42,7 +42,7 @@
 
 ## 📂 Projects
 
-🔴 Git Story Project (Little Red Riding Hood)  
+🔴 duckstore-frontend (F9femcoders-bootcamp)
 🟡 AI Projects (coming soon)  
 🟢 Personal Experiments  
 
