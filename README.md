@@ -21,12 +21,12 @@
 ## 📚 Learning Journey
 
 - 🌐 Frontend: HTML, CSS, JavaScript, React  
-- 🎨 UX/UI: Figma, Design Systems, Atomic Design  
+- 🎨 UX/UI: Figma, Stitch  
 - ⚙️ Backend: Java, Spring Boot, REST APIs, Databases  
 - 🔐 Security: Authentication & JWT  
 - 🧪 Testing: Unit Testing & TDD  
-- 🔄 Agile: Scrum, Kanban, Gitflow  
-- 🤖 AI: Generative AI  
+- 🔄 Agile: Scrum, Kanban, Gitflow, Jira, Trello  
+- 🤖 AI: Generative AI 
 
 🚀 Building real-world projects at Factoria F5
 
@@ -43,9 +43,18 @@
 ## 📂 Projects
 
 <p>
-🔴 duckstore-frontend (F9femcoders-bootcamp)<br />
-🟡 AI Projects (coming soon)<br />
-🟢 Personal Experiments
+## 📂 Projects
+
+🔴 **duckstore-frontend**  
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![CSS](https://img.shields.io/badge/CSS-Styling-purple)  
+🔗 https://github.com/fabileoruf/duckstore-frontend  
+
+🟡 **AI Projects** *(coming soon)*  
+🤖 Generative AI experiments  
+
+🟢 **Personal Experiments**  
+🧪 Learning projects and practice
 </p>
 
 ---
