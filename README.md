@@ -1,20 +1,33 @@
 # Hi, I'm Fabiana 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Returning+to+Tech;Full+Stack+Developer+in+progress+.+.+.;AI+%7C+IoT+Enthusiast&center=true&width=500&height=45">
+  <img
+    src="./fabiana-profile-banner.png"
+    width="100%"
+    alt="Fabiana Leonardo professional profile"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=Connecting+People%2C+Processes+and+Technology;Full+Stack+Developer+in+Training;Customer+Experience+%7C+Operations+%7C+AI&center=true&width=700&height=45"
+    alt="Fabiana professional introduction"
+  />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🎓 Currently studying at Factoria F5  
+💼 International Operations and Customer Service professional  
 
-💼 Background in Graphic Design & Editorial Production  
+📊 Experience in Back Office, CRM, order management, reporting and process improvement  
 
-📊 Experience in Commercial, Customer Service & Digital Product Manager 
+🚀 Expanding my career into Full Stack Development and Generative AI  
 
-🚀 Rebuilding my journey in Tech with a user-focused mindset
+💻 Building projects with Java, Spring Boot, React, JavaScript and PostgreSQL  
+
+🌍 Based in Barcelona, Spain, with full European work authorization  
 
 ---
 
@@ -23,63 +36,117 @@
 - 🌐 Frontend: HTML, CSS, JavaScript, React  
 - 🎨 UX/UI: Figma, Stitch  
 - ⚙️ Backend: Java, Spring Boot, REST APIs, Databases  
-- 🔐 Security: Authentication & JWT  
-- 🧪 Testing: Unit Testing & TDD  
-- 🔄 Agile: Scrum, Kanban, Gitflow, Jira, Trello  
-- 🤖 AI: Generative AI 
+- 🗄️ Data: SQL, PostgreSQL  
+- 🔐 Security: Authentication and JWT  
+- 🧪 Testing: Unit Testing and TDD  
+- 🐳 Infrastructure: Docker and Kubernetes fundamentals  
+- 🔄 Agile: Scrum, Kanban, Gitflow, Jira and Trello  
+- 🤖 AI: Generative AI and intelligent digital solutions  
 
-🚀 Building real-world projects at Factoria F5
+🚀 Building real-world projects at Factoría F5 / Mundo Tech
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,figma,trello" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,postgres,docker,kubernetes,git,github,postman,figma"
+    alt="Fabiana technology stack"
+  />
 </p>
+
+### Business Platforms
+
+`Salesforce` · `SAGE` · `Navision` · `Magento` · `Jira` · `Confluence`
 
 ---
 
 ## 📂 Projects
 
-<p>
-## 📂 Projects
+### 🟠 Duck Store Frontend
 
-🔴 **duckstore-frontend**  
-![React](https://img.shields.io/badge/React-Frontend-blue)
-![CSS](https://img.shields.io/badge/CSS-Styling-purple)  
-🔗 https://github.com/fabileoruf/duckstore-frontend  
+![HTML](https://img.shields.io/badge/HTML5-Frontend-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Development-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-🟡 **AI Projects** *(coming soon)*  
-🤖 Generative AI experiments  
+Responsive frontend project focused on interface development and web fundamentals.
 
-🟢 **Personal Experiments**  
-🧪 Learning projects and practice
-</p>
+[View repository](https://github.com/fabileoruf/duckstore-frontend)
+
+### 🟣 Contemporary Goddesses Tarot
+
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Development-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+Collaborative project using React, Vite, Axios and CRUD operations.
+
+### 🟢 Spring Boot API
+
+![Java](https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-API-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+REST API project developed with Java, Spring Boot and PostgreSQL.
+
+### 🤖 AI Projects
+
+Generative AI experiments and intelligent productivity solutions — coming soon.
+
+---
+
+## 🎓 Certifications
+
+- ACTIC Level 2 — Intermediate Digital Competence
+- Full Stack Development & AI Bootcamp — Factoría F5 / Mundo Tech
+- Postgraduate Certificate in Digital Transformation — EAE Business School
+- Digital Generation Program — EOI
+- Customer Experience, Business & Marketing — TECH University
 
 ---
 
 ## 📊 GitHub Stats
 
-🚧 Currently building projects — stats coming soon!
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=fabileoruf&show_icons=true&theme=transparent&hide_border=true"
+    alt="Fabiana GitHub statistics"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabileoruf&layout=compact&theme=transparent&hide_border=true"
+    alt="Fabiana most used languages"
+  />
+</p>
 
 ---
 
 ## 🌍 Languages
 
-🇧🇷 Portuguese • 🇪🇸 Spanish • 🇺🇸 English  
+🇧🇷 Portuguese — Native  
+
+🇪🇸 Spanish — Native  
+
+🇺🇸 English — Professional  
 
 ---
 
-
-## 📫 Connect with me
+## 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/fabileoruf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/fabileoruf">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
-  <a href="https://mail.google.com/mail/?view=cm&to=es.fabileo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <a href="mailto:es.fabileo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Connecting people, processes and technology to create real impact.</strong>
 </p>
