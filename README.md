@@ -105,16 +105,19 @@ Generative AI experiments and intelligent productivity solutions — coming soon
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabileoruf&theme=github"
-    width="100%"
-    alt="Fabiana GitHub activity"
-  />
+  <a href="https://github.com/fabileoruf?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View%20My%20Repositories-GitHub-181717?style=for-the-badge&logo=github"
+      alt="View Fabiana's repositories"
+    />
+  </a>
+</p>
+
+<p align="center">
+  Building projects with Java, Spring Boot, React, JavaScript and PostgreSQL.
 </p>
 
 ---
