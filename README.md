@@ -108,17 +108,11 @@ Generative AI experiments and intelligent productivity solutions — coming soon
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=fabileoruf&show_icons=true&theme=transparent&hide_border=true"
-    alt="Fabiana GitHub statistics"
-  />
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabileoruf&layout=compact&theme=transparent&hide_border=true"
-    alt="Fabiana most used languages"
-  />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fabileoruf&show_icons=true&theme=transparent&hide_border=true" alt="Fabiana GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabileoruf&layout=compact&theme=transparent&hide_border=true" alt="Fabiana most used languages" />
+
 </p>
 
 ---
