@@ -1,21 +1,6 @@
 # Hi, I'm Fabiana 👋
 
-<p align="center">
-  <img
-    src="./fabiana-profile-banner.png"
-    width="100%"
-    alt="Fabiana Leonardo professional profile"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?lines=Connecting+People%2C+Processes+and+Technology;Full+Stack+Developer+in+Training;Customer+Experience+%7C+Operations+%7C+AI&center=true&width=700&height=45"
-    alt="Fabiana professional introduction"
-  />
-</p>
-
----
 
 ## 🧠 About Me
 
